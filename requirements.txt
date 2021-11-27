@@ -1,0 +1,10 @@
+vaex
+sklearn
+boto3
+bs4
+dnspython
+pymongo
+lxml
+autocorrect
+textdistance
+manual_spellchecker
